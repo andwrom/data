@@ -1,0 +1,332 @@
+Region,Local authority name,Median House Price 2023,Median Salary in Region,Median Wages to House Price ratio
+North East,Hartlepool,130000,31438,4.14
+North East,Middlesbrough,136500,31438,4.34
+North East,Redcar and Cleveland,150003,31438,4.77
+North East,Stockton-on-Tees,163000,31438,5.18
+North East,Darlington,152000,31438,4.83
+North East,County Durham,125000,31438,3.98
+North East,Northumberland,185950,31438,5.91
+North East,Newcastle upon Tyne,182500,31438,5.81
+North East,North Tyneside,185000,31438,5.88
+North East,South Tyneside,147450,31438,4.69
+North East,Sunderland,134000,31438,4.26
+North East,Gateshead,150000,31438,4.77
+North West,Halton,174750,31438,5.56
+North West,Warrington,246000,31438,7.82
+North West,Blackburn with Darwen,137000,31438,4.36
+North West,Blackpool,131250,31438,4.17
+North West,Cheshire East,270000,31438,8.59
+North West,Cheshire West and Chester,247250,31438,7.86
+North West,Allerdale,167750,31438,5.34
+North West,Barrow-in-Furness,143750,31438,4.57
+North West,Carlisle,155000,31438,4.93
+North West,Copeland,138750,31438,4.41
+North West,Eden,250100,31438,7.96
+North West,South Lakeland,285000,31438,9.07
+North West,Burnley,116000,31438,3.69
+North West,Chorley,200000,31438,6.36
+North West,Fylde,229950,31438,7.31
+North West,Hyndburn,127000,31438,4.04
+North West,Lancaster,185500,31438,5.9
+North West,Pendle,134000,31438,4.26
+North West,Preston,160000,31438,5.09
+North West,Ribble Valley,260000,31438,8.27
+North West,Rossendale,170000,31438,5.41
+North West,South Ribble,195000,31438,6.2
+North West,West Lancashire,210000,31438,6.68
+North West,Wyre,182000,31438,5.79
+North West,Bolton,180000,31438,5.73
+North West,Bury,227000,31438,7.22
+North West,Manchester,231000,31438,7.35
+North West,Oldham,180000,31438,5.73
+North West,Rochdale,181600,31438,5.78
+North West,Salford,223000,31438,7.09
+North West,Stockport,291000,31438,9.26
+North West,Tameside,195000,31438,6.2
+North West,Trafford,360000,31438,11.45
+North West,Wigan,175000,31438,5.57
+North West,Knowsley,170000,31438,5.41
+North West,Liverpool,161000,31438,5.12
+North West,St. Helens,167500,31438,5.33
+North West,Sefton,210000,31438,6.68
+North West,Wirral,200000,31438,6.36
+Yorkshire and The Humber,Kingston upon Hull, City of,131000,32080,4.08
+Yorkshire and The Humber,East Riding of Yorkshire,210000,32080,6.55
+Yorkshire and The Humber,North East Lincolnshire,152000,32080,4.74
+Yorkshire and The Humber,North Lincolnshire,169998,32080,5.3
+Yorkshire and The Humber,York,300000,32080,9.35
+Yorkshire and The Humber,Craven,260000,32080,8.1
+Yorkshire and The Humber,Hambleton,265000,32080,8.26
+Yorkshire and The Humber,Harrogate,325000,32080,10.13
+Yorkshire and The Humber,Richmondshire,263000,32080,8.2
+Yorkshire and The Humber,Ryedale,284995,32080,8.88
+Yorkshire and The Humber,Scarborough,195000,32080,6.08
+Yorkshire and The Humber,Selby,250000,32080,7.79
+Yorkshire and The Humber,Barnsley,159000,32080,4.96
+Yorkshire and The Humber,Doncaster,155000,32080,4.83
+Yorkshire and The Humber,Rotherham,174000,32080,5.42
+Yorkshire and The Humber,Sheffield,200000,32080,6.23
+Yorkshire and The Humber,Bradford,160000,32080,4.99
+Yorkshire and The Humber,Calderdale,165000,32080,5.14
+Yorkshire and The Humber,Kirklees,187000,32080,5.83
+Yorkshire and The Humber,Leeds,230000,32080,7.17
+Yorkshire and The Humber,Wakefield,185000,32588,5.68
+East Midlands,Derby,195000,32588,5.98
+East Midlands,Leicester,230000,32588,7.06
+East Midlands,Rutland,325000,32588,9.97
+East Midlands,Nottingham,185000,32588,5.68
+East Midlands,Amber Valley,220000,32588,6.75
+East Midlands,Bolsover,165995,32588,5.09
+East Midlands,Chesterfield,183000,32588,5.62
+East Midlands,Derbyshire Dales,328998,32588,10.1
+East Midlands,Erewash,208000,32588,6.38
+East Midlands,High Peak,249000,32588,7.64
+East Midlands,North East Derbyshire,240000,32588,7.36
+East Midlands,South Derbyshire,239950,32588,7.36
+East Midlands,Blaby,275000,32588,8.44
+East Midlands,Charnwood,270000,32588,8.29
+East Midlands,Harborough,325000,32588,9.97
+East Midlands,Hinckley and Bosworth,251750,32588,7.73
+East Midlands,Melton,255000,32588,7.82
+East Midlands,North West Leicestershire,260000,32588,7.98
+East Midlands,Oadby and Wigston,265000,32588,8.13
+East Midlands,Boston,199000,32588,6.11
+East Midlands,East Lindsey,220000,32588,6.75
+East Midlands,Lincoln,180000,32588,5.52
+East Midlands,North Kesteven,240000,32588,7.36
+East Midlands,South Holland,240000,32588,7.36
+East Midlands,South Kesteven,255000,32588,7.82
+East Midlands,West Lindsey,225000,32588,6.9
+East Midlands,North Northamptonshire,253750,32588,7.79
+East Midlands,West Northamptonshire,290000,32588,8.9
+East Midlands,Ashfield,182700,32588,5.61
+East Midlands,Bassetlaw,190000,32588,5.83
+East Midlands,Broxtowe,235000,32588,7.21
+East Midlands,Gedling,235000,32588,7.21
+East Midlands,Mansfield,176995,32588,5.43
+East Midlands,Newark and Sherwood,228000,32588,7
+East Midlands,Rushcliffe,331500,32588,10.17
+West Midlands,Herefordshire, County of,291000,33121,8.79
+West Midlands,Telford and Wrekin,216000,33121,6.52
+West Midlands,Stoke-on-Trent,140000,33121,4.23
+West Midlands,Shropshire,265740,33121,8.02
+West Midlands,Cannock Chase,215000,33121,6.49
+West Midlands,East Staffordshire,210000,33121,6.34
+West Midlands,Lichfield,299998,33121,9.06
+West Midlands,Newcastle-under-Lyme,180000,33121,5.43
+West Midlands,South Staffordshire,280000,33121,8.45
+West Midlands,Stafford,245000,33121,7.4
+West Midlands,Staffordshire Moorlands,210000,33121,6.34
+West Midlands,Tamworth,234473,33121,7.08
+West Midlands,North Warwickshire,250000,33121,7.55
+West Midlands,Nuneaton and Bedworth,227000,33121,6.85
+West Midlands,Rugby,280000,33121,8.45
+West Midlands,Stratford-on-Avon,375000,33121,11.32
+West Midlands,Warwick,343650,33121,10.38
+West Midlands,Bromsgrove,340000,33121,10.27
+West Midlands,Malvern Hills,325000,33121,9.81
+West Midlands,Redditch,242000,33121,7.31
+West Midlands,Worcester,250000,33121,7.55
+West Midlands,Wychavon,324998,33121,9.81
+West Midlands,Wyre Forest,230000,33121,6.94
+West Midlands,Birmingham,225000,33121,6.79
+West Midlands,Coventry,220000,33121,6.64
+West Midlands,Dudley,217750,33121,6.57
+West Midlands,Sandwell,195000,33121,5.89
+West Midlands,Solihull,332975,33121,10.05
+West Midlands,Walsall,200000,33121,6.04
+West Midlands,Wolverhampton,195000,33121,5.89
+East of England,Peterborough,235000,36355,6.46
+East of England,Luton,310000,36355,8.53
+East of England,Southend-on-Sea,340000,36355,9.35
+East of England,Thurrock,350000,36355,9.63
+East of England,Bedford,330000,36355,9.08
+East of England,Central Bedfordshire,362500,36355,9.97
+East of England,Cambridge,492750,36355,13.55
+East of England,East Cambridgeshire,330000,36355,9.08
+East of England,Fenland,237500,36355,6.53
+East of England,Huntingdonshire,312000,36355,8.58
+East of England,South Cambridgeshire,425000,36355,11.69
+East of England,Basildon,360000,36355,9.9
+East of England,Braintree,335000,36355,9.21
+East of England,Brentwood,472500,36355,13
+East of England,Castle Point,370000,36355,10.18
+East of England,Chelmsford,395000,36355,10.87
+East of England,Colchester,320500,36355,8.82
+East of England,Epping Forest,511750,36355,14.08
+East of England,Harlow,330000,36355,9.08
+East of England,Maldon,385000,36355,10.59
+East of England,Rochford,402750,36355,11.08
+East of England,Tendring,280000,36355,7.7
+East of England,Uttlesford,465000,36355,12.79
+East of England,Broxbourne,435000,36355,11.97
+East of England,Dacorum,440000,36355,12.1
+East of England,Hertsmere,565000,36355,15.54
+East of England,North Hertfordshire,407000,36355,11.2
+East of England,Three Rivers,580000,36355,15.95
+East of England,Watford,420000,36355,11.55
+East of England,Breckland,265000,36355,7.29
+East of England,Broadland,315000,36355,8.66
+East of England,Great Yarmouth,222000,36355,6.11
+East of England,King's Lynn and West Norfolk,275000,36355,7.56
+East of England,North Norfolk,315000,36355,8.66
+East of England,Norwich,235000,36355,6.46
+East of England,South Norfolk,315000,36355,8.66
+East of England,Babergh,338000,36355,9.3
+East of England,Ipswich,240000,36355,6.6
+East of England,Mid Suffolk,312750,36355,8.6
+East of England,St Albans,633500,36355,17.43
+East of England,Welwyn Hatfield,445000,36355,12.24
+East of England,East Hertfordshire,450000,36355,12.38
+East of England,Stevenage,335000,36355,9.21
+East of England,East Suffolk,295000,36355,8.11
+East of England,West Suffolk,287750,36355,7.92
+London,City of London,790000,41853,18.88
+London,Barking and Dagenham,380000,41853,9.08
+London,Barnet,615000,41853,14.69
+London,Bexley,425000,41853,10.15
+London,Brent,565000,41853,13.5
+London,Bromley,525000,41853,12.54
+London,Camden,770000,41853,18.4
+London,Croydon,430000,41853,10.27
+London,Ealing,550000,41853,13.14
+London,Enfield,475000,41853,11.35
+London,Greenwich,470000,41853,11.23
+London,Hackney,600000,41853,14.34
+London,Hammersmith and Fulham,770000,41853,18.4
+London,Haringey,585000,41853,13.98
+London,Harrow,568750,41853,13.59
+London,Havering,450000,41853,10.75
+London,Hillingdon,490000,41853,11.71
+London,Hounslow,490000,41853,11.71
+London,Islington,657500,41853,15.71
+London,Kensington and Chelsea,1357500,41853,32.43
+London,Kingston upon Thames,571000,41853,13.64
+London,Lambeth,550000,41853,13.14
+London,Lewisham,477500,41853,11.41
+London,Merton,565000,41853,13.5
+London,Newham,435000,41853,10.39
+London,Redbridge,500000,41853,11.95
+London,Richmond upon Thames,749950,41853,17.92
+London,Southwark,550000,41853,13.14
+London,Sutton,455500,41853,10.88
+London,Tower Hamlets,500000,41853,11.95
+London,Waltham Forest,525000,41853,12.54
+London,Wandsworth,685000,41853,16.37
+London,Westminster,965000,41853,23.06
+South East,Medway,303000,37454,8.09
+South East,Bracknell Forest,387750,37454,10.35
+South East,West Berkshire,395500,37454,10.56
+South East,Reading,345000,37454,9.21
+South East,Slough,371000,37454,9.91
+South East,Windsor and Maidenhead,540000,37454,14.42
+South East,Wokingham,490000,37454,13.08
+South East,Milton Keynes,335000,37454,8.94
+South East,Brighton and Hove,439750,37454,11.74
+South East,Portsmouth,260000,37454,6.94
+South East,Southampton,260000,37454,6.94
+South East,Isle of Wight,275000,37454,7.34
+South East,Buckinghamshire,453000,37454,12.09
+South East,Eastbourne,295000,37454,7.88
+South East,Hastings,300000,37454,8.01
+South East,Lewes,400000,37454,10.68
+South East,Rother,365000,37454,9.75
+South East,Wealden,390000,37454,10.41
+South East,Basingstoke and Deane,350000,37454,9.34
+South East,East Hampshire,440000,37454,11.75
+South East,Eastleigh,337000,37454,9
+South East,Fareham,350000,37454,9.34
+South East,Gosport,255500,37454,6.82
+South East,Hart,470000,37454,12.55
+South East,Havant,325000,37454,8.68
+South East,New Forest,399950,37454,10.68
+South East,Rushmoor,350000,37454,9.34
+South East,Test Valley,372000,37454,9.93
+South East,Winchester,494475,37454,13.2
+South East,Ashford,340000,37454,9.08
+South East,Canterbury,365000,37454,9.75
+South East,Dartford,380000,37454,10.15
+South East,Dover,310000,37454,8.28
+South East,Gravesham,360000,37454,9.61
+South East,Maidstone,365000,37454,9.75
+South East,Sevenoaks,490000,37454,13.08
+South East,Folkestone and Hythe,317500,37454,8.48
+South East,Swale,305000,37454,8.14
+South East,Thanet,315000,37454,8.41
+South East,Tonbridge and Malling,420000,37454,11.21
+South East,Tunbridge Wells,450000,37454,12.01
+South East,Cherwell,350000,37454,9.34
+South East,Oxford,450000,37454,12.01
+South East,South Oxfordshire,445000,37454,11.88
+South East,Vale of White Horse,390000,37454,10.41
+South East,West Oxfordshire,380000,37454,10.15
+South East,Elmbridge,665000,37454,17.76
+South East,Epsom and Ewell,565000,37454,15.09
+South East,Guildford,505000,37454,13.48
+South East,Mole Valley,580000,37454,15.49
+South East,Reigate and Banstead,485000,37454,12.95
+South East,Runnymede,466000,37454,12.44
+South East,Spelthorne,449250,37454,11.99
+South East,Surrey Heath,455000,37454,12.15
+South East,Tandridge,500000,37454,13.35
+South East,Waverley,555000,37454,14.82
+South East,Woking,465750,37454,12.44
+South East,Adur,390000,37454,10.41
+South East,Arun,350000,37454,9.34
+South East,Chichester,430000,37454,11.48
+South East,Crawley,340000,37454,9.08
+South East,Horsham,440000,37454,11.75
+South East,Mid Sussex,434500,37454,11.6
+South East,Worthing,360000,37454,9.61
+South West,Bath and North East Somerset,382000,34000,11.24
+South West,Bristol, City of,347999,34000,10.24
+South West,North Somerset,320000,34000,9.41
+South West,South Gloucestershire,332000,34000,9.76
+South West,Plymouth,214000,34000,6.29
+South West,Torbay,250000,34000,7.35
+South West,Swindon,265000,34000,7.79
+South West,Cornwall,297000,34000,8.74
+South West,Isles of Scilly,572500,34000,16.84
+South West,Wiltshire,325000,34000,9.56
+South West,Bournemouth, Christchurch and Poole,343000,34000,10.09
+South West,Dorset,352000,34000,10.35
+South West,East Devon,350000,34000,10.29
+South West,Exeter,300000,34000,8.82
+South West,Mid Devon,300000,34000,8.82
+South West,North Devon,305000,34000,8.97
+South West,South Hams,400000,34000,11.76
+South West,Teignbridge,300000,34000,8.82
+South West,Torridge,295500,34000,8.69
+South West,West Devon,300000,34000,8.82
+South West,Cheltenham,325000,34000,9.56
+South West,Cotswold,450000,34000,13.24
+South West,Forest of Dean,285000,34000,8.38
+South West,Gloucester,245000,34000,7.21
+South West,Stroud,327500,34000,9.63
+South West,Tewkesbury,310000,34000,9.12
+South West,Mendip,321000,34000,9.44
+South West,Sedgemoor,270000,34000,7.94
+South West,South Somerset,270000,34000,7.94
+South West,Somerset West and Taunton,285000,34000,8.38
+Wales,Isle of Anglesey,235000,32817,7.16
+Wales,Gwynedd,185000,32817,5.64
+Wales,Conwy,210000,32817,6.4
+Wales,Denbighshire,185500,32817,5.65
+Wales,Flintshire,200000,32817,6.09
+Wales,Wrexham,182000,32817,5.55
+Wales,Ceredigion,242000,32817,7.37
+Wales,Pembrokeshire,225000,32817,6.86
+Wales,Carmarthenshire,180000,32817,5.48
+Wales,Swansea,185000,32817,5.64
+Wales,Neath Port Talbot,148000,32817,4.51
+Wales,Bridgend,195000,32817,5.94
+Wales,Vale of Glamorgan,280000,32817,8.53
+Wales,Cardiff,257500,32817,7.85
+Wales,Rhondda Cynon Taf,145000,32817,4.42
+Wales,Caerphilly,175000,32817,5.33
+Wales,Blaenau Gwent,132500,32817,4.04
+Wales,Torfaen,180000,32817,5.48
+Wales,Monmouthshire,320000,32817,9.75
+Wales,Newport,215000,32817,6.55
+Wales,Powys,242998,32817,7.4
+Wales,Merthyr Tydfil,135000,32817,4.11
